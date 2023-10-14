@@ -1,0 +1,22 @@
+main {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+
+main h1 {
+    margin: 30px 0 20px 0;
+    text-align: center;
+}
+
+.imagem {
+    width: 80%;
+    height: 400px;
+    margin: 20px auto;
+    border-radius: 20px;
+    background-image: url(../imgs/banner.jpg);
+    background-size: cover;
+    background-position: center;
+}
