@@ -1,0 +1,53 @@
+main {
+    width: 100%;
+    font-size: 30px;
+    font-family: monospace;
+}
+
+main h1 {
+    text-align: center;
+    margin: 50px 0 40px 0;
+}
+
+.divisao {    
+    width: 90%;
+    margin: 0 auto 30px auto;
+    border-radius: 10px;
+    border: solid 2px wheat;
+}
+
+section, #secao {
+    width: 100%;
+    padding: 50px;
+}
+
+section h3 {
+    margin: 0 0 20px 50px;
+}
+
+.nome {
+    display: flex;
+    justify-content: space-around;
+}
+
+.nome a {
+    text-decoration: none;
+}
+
+.vagas {
+    width: 50%;
+    text-align: center;
+}
+
+.saibaMais {
+    width: 50%;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.btnSecao {
+    width: 30%;
+    border-radius: 10px;
+    color: rgb(235, 235, 235);
+    background-color: rgb(241, 196, 113);
+}
